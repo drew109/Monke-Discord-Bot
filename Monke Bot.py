@@ -66,4 +66,4 @@ async def showpic(ctx, *, search):
     embed1.set_image(url=url)
     await ctx.send(embed=embed1)
 
-    client.run("ODc1OTU0ODYyMzg5NjI0ODQy.YRdCiQ.KDrRcUgeYDZ6lEaZ5xAC-Bq7F_c")
+    client.run("Your Token")
